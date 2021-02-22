@@ -1,0 +1,6 @@
+name: 'Odsag Workshop Booking'
+type: 'module'
+description: 'Osdag project, FOSSEE, IIT Bombay'
+core: '8.x'
+version: '8.9.13'
+package: 'FOSSEE IITB'
